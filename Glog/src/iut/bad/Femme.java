@@ -21,5 +21,4 @@ public class Femme extends Humain {
         h.details();
     }
 
-
 }
