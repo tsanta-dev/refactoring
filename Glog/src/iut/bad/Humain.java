@@ -14,4 +14,13 @@ public class Humain {
         // on appelle toString() au lieu de répéter le texte
         System.out.println(this.toString());
     }
+    
+    public void manger() {
+        System.out.println(nom + " mange.");
+    }
+
+    public void boire() {
+        System.out.println(nom + " boit.");
+    }
+
 }
